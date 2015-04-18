@@ -1,0 +1,7 @@
+---
+applications:
+- name: calorie-counter
+memory: 256M
+instances: 1
+host: calorie-counter
+buildpack: https://github.com/dmikusa-pivotal/cf-php-build-pack.git
