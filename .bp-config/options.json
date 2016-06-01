@@ -1,3 +1,4 @@
 {
-    "WEB_SERVER": "nginx"
+    "WEB_SERVER": "nginx",
+    "PHP_EXTENSIONS": ["bz2", "zlib", "mysqli", "pdo", "pdo_mysql"]
 }
